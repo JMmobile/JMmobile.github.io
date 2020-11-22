@@ -1,2 +1,2 @@
-# JMmobile.github.io
+# jmmobile.github.io
 Website
